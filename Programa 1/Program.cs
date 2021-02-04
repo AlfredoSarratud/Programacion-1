@@ -22,20 +22,20 @@ namespace Programa_1
 			Console.Write(a);
 			Console.Write(a);
 			Console.Write(c);
-			Console.Write(b);
+			Console.WriteLine(b);
 
-			Console.WriteLine("--------");
-
-			Console.Write(b);
-			Console.Write(c);
-			Console.Write(a);
-
-			Console.WriteLine("-------");
+			Console.WriteLine();
 
 			Console.Write(b);
 			Console.Write(c);
+			Console.WriteLine(a);
+
+			Console.WriteLine();
+
 			Console.Write(b);
 			Console.Write(c);
+			Console.Write(b);
+			Console.WriteLine(c);
 
 			Console.ReadLine();
 		}
